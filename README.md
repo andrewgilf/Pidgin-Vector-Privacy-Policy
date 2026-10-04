@@ -25,4 +25,4 @@ Changes to this policy
 If a future version of the app changes any of the above, we will update this page and the App Store privacy labels before that version ships.
 Contact
 Questions about this policy:
-Pidginization@gmail.com
+info@sunriseapplications.com
